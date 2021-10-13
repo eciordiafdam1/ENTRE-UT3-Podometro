@@ -3,19 +3,26 @@
  * acerca de los pasos, distancia, ..... que una persona
  * ha dado en una semana. 
  * 
- * @author    - pon aquí tu nombre - 
+ * @author    -Endika - 
  */
 public class Podometro {
+        
     
-
     /**
      * Inicializa el podómetro con la marca indicada por el parámetro.
      * El resto de atributos se ponen a 0 y el sexo, por defecto, es mujer
      */
-    public Podometro() {
-
+    public if sexo(hombre o mujer){
+        sexoMujer="M";
         
-    }
+        
+    
+    
+}
+
+else sexo(hombre o mujer){
+    sexoHombre= "H";
+}
 
     /**
      * accesor para la marca
