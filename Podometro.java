@@ -33,11 +33,11 @@ else sexo(hombre o mujer){
     }
     
     public String (Sabado){
-         sabado=6   
+         sabado=6;   
     }
     
     public String (Domingo){
-         Domingo=7   
+         Domingo=7;   
     }
     
     /**
@@ -46,8 +46,8 @@ else sexo(hombre o mujer){
      */
     public void getMarca(Hombres 41% Mujeres 45%) {
 
-         Math.sqrt(41%/100)=0,41
-         Math.sqrt(45%/100)=0,45
+         Math.sqrt(41%/100)=0,41;
+         Math.sqrt(45%/100)=0,45;
 
     }
 
@@ -62,7 +62,7 @@ else sexo(hombre o mujer){
      */
     public void configurar(double queAltura, char queSexo) {
 
-        LongitudZancada = (45*100/100+41*100/100)
+        LongitudZancada = (45*100/100+41*100/100);
     }
 
      /**
@@ -80,7 +80,19 @@ else sexo(hombre o mujer){
      */
     public void registrarCaminata(int pasos, int dia, int horaInicio,
                             int horaFin) {
-
+    
+       RegistrarPasosTotales = (horaInicio + horaFin); 
+       RegistrarDia switch(Martes,Sabado,Domingo)
+       Case 1 
+       Viernes
+       Break;
+        Case 2 
+       Sabado
+       Break;
+        Case 3 
+       Domingo
+       Break;
+       
        
 
     }
