@@ -92,7 +92,7 @@ else sexo(hombre o mujer){
         Case 3 
        Domingo
        Break;
-       
+       default;
        
 
     }
@@ -105,8 +105,7 @@ else sexo(hombre o mujer){
      *  
      */
     public void printConfiguracion() {
-
-        
+     math.println.(altura = 1.57, sexo = mujer,longitud zancada =0,64mtos);
 
     }
 
@@ -117,10 +116,11 @@ else sexo(hombre o mujer){
      * (leer enunciado)
      *  
      */
-    public void printEstadísticas() {
-
-        
-
+    public void printEstadísticas() {distancia recorrida toda la semana = 48.1152Km;
+     distancia recorrida fin de semana = 20.48Km;
+     numero pasos dias laborables = 43180;
+     numero pasos sabado: 17.000;
+     numero pasos domingo: 15.000;
     }
 
    
@@ -130,8 +130,7 @@ else sexo(hombre o mujer){
      *  en el que se ha caminado más pasos - "SÁBADO"   "DOMINGO" o  "LABORABLES"
      */
     public String diaMayorNumeroPasos() {
-
-         
+        return = "sabado"o"domingo" o "laborable";
 
     }
     
@@ -143,8 +142,8 @@ else sexo(hombre o mujer){
      *  
      */    
     public void reset() {
-
-        
+    
+        reset=0 except sexo;
 
     }
 
