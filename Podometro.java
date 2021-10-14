@@ -62,7 +62,7 @@ else sexo(hombre o mujer){
      */
     public void configurar(double queAltura, char queSexo) {
 
-        
+        LongitudZancada = (45*100/100+41*100/100)
     }
 
      /**
